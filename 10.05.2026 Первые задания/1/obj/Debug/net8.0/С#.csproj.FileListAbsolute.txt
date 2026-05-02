@@ -1,0 +1,14 @@
+/home/powolluma/Документы/С#/bin/Debug/net8.0/С#
+/home/powolluma/Документы/С#/bin/Debug/net8.0/С#.deps.json
+/home/powolluma/Документы/С#/bin/Debug/net8.0/С#.runtimeconfig.json
+/home/powolluma/Документы/С#/bin/Debug/net8.0/С#.dll
+/home/powolluma/Документы/С#/bin/Debug/net8.0/С#.pdb
+/home/powolluma/Документы/С#/obj/Debug/net8.0/С#.GeneratedMSBuildEditorConfig.editorconfig
+/home/powolluma/Документы/С#/obj/Debug/net8.0/С#.AssemblyInfoInputs.cache
+/home/powolluma/Документы/С#/obj/Debug/net8.0/С#.AssemblyInfo.cs
+/home/powolluma/Документы/С#/obj/Debug/net8.0/С#.csproj.CoreCompileInputs.cache
+/home/powolluma/Документы/С#/obj/Debug/net8.0/С#.dll
+/home/powolluma/Документы/С#/obj/Debug/net8.0/refint/С#.dll
+/home/powolluma/Документы/С#/obj/Debug/net8.0/С#.pdb
+/home/powolluma/Документы/С#/obj/Debug/net8.0/С#.genruntimeconfig.cache
+/home/powolluma/Документы/С#/obj/Debug/net8.0/ref/С#.dll
