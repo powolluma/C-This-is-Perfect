@@ -1,0 +1,14 @@
+/home/powolluma/ Documents/coding/C#/6/bin/Debug/net10.0/6
+/home/powolluma/ Documents/coding/C#/6/bin/Debug/net10.0/6.deps.json
+/home/powolluma/ Documents/coding/C#/6/bin/Debug/net10.0/6.runtimeconfig.json
+/home/powolluma/ Documents/coding/C#/6/bin/Debug/net10.0/6.dll
+/home/powolluma/ Documents/coding/C#/6/bin/Debug/net10.0/6.pdb
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/6.GeneratedMSBuildEditorConfig.editorconfig
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/6.AssemblyInfoInputs.cache
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/6.AssemblyInfo.cs
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/6.csproj.CoreCompileInputs.cache
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/6.dll
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/refint/6.dll
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/6.pdb
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/6.genruntimeconfig.cache
+/home/powolluma/ Documents/coding/C#/6/obj/Debug/net10.0/ref/6.dll
