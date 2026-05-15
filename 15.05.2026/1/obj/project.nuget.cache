@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "//30/Cgpx44=",
+  "success": true,
+  "projectFilePath": "/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/1/1.csproj",
+  "expectedPackageFiles": [
+    "/home/powolluma/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

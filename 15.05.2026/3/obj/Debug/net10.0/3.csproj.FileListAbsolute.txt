@@ -1,0 +1,15 @@
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/bin/Debug/net10.0/3
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/bin/Debug/net10.0/3.deps.json
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/bin/Debug/net10.0/3.runtimeconfig.json
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/bin/Debug/net10.0/3.dll
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/bin/Debug/net10.0/3.pdb
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/3.AssemblyInfoInputs.cache
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/3.AssemblyInfo.cs
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/3.csproj.CoreCompileInputs.cache
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/3.sourcelink.json
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/3.dll
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/refint/3.dll
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/3.pdb
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/3.genruntimeconfig.cache
+/home/powolluma/ Documents/coding/C#/C-This-is-Perfect/15.05.2026/3/obj/Debug/net10.0/ref/3.dll
